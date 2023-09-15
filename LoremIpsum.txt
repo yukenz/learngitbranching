@@ -1,3 +1,7 @@
 #main branch commit
 #paragraf 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur velit turpis, tincidunt ac felis in, tristique imperdiet quam. Quisque venenatis sollicitudin nibh vel malesuada. Praesent a sagittis velit. Praesent vitae elementum erat, id ullamcorper justo. Sed elementum magna id egestas tempor. Vestibulum non tellus et metus tincidunt lacinia vel non massa. Praesent fringilla dignissim pretium. Maecenas sit amet nulla pretium, tempus est non, scelerisque mi. Suspendisse fringilla elit id nibh congue, tincidunt mollis ipsum efficitur. Donec nibh elit, aliquam eget est ac, efficitur mattis urna. Proin eleifend purus vitae lacus iaculis luctus. Ut tristique nisl efficitur, semper ex imperdiet, lacinia lorem.
+
+#paragraf3 branch commit
+#paragraf 3
+Donec tincidunt faucibus mollis. Sed ut interdum quam, id vehicula diam. Donec sed ullamcorper dolor. Praesent sed finibus ex. Integer egestas, ante nec imperdiet scelerisque, velit erat accumsan dui, ac pulvinar ligula felis non mauris. Vivamus ut velit mauris. Nulla facilisi. Nunc consectetur diam nibh, sit amet interdum lectus hendrerit vitae. Phasellus vel felis hendrerit, dictum augue id, ultricies felis. Praesent metus turpis, sagittis et leo sit amet, luctus efficitur quam.
