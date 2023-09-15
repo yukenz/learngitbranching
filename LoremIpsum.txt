@@ -13,3 +13,7 @@ Donec tincidunt faucibus mollis. Sed ut interdum quam, id vehicula diam. Donec s
 #paragraf4 branch commit
 #paragraf 4
 Pellentesque venenatis quam accumsan posuere dapibus. Cras eleifend malesuada diam et egestas. Duis ultrices elit sed mollis pharetra. Cras aliquet varius pharetra. Mauris lacus nulla, elementum non massa ac, elementum bibendum est. Aenean eget purus sed orci ornare dapibus. Suspendisse sit amet scelerisque quam, ac laoreet erat.
+
+#paragraf4 branch commit
+#paragraf 8
+Mauris eleifend orci massa, sit amet accumsan sem condimentum ac. Maecenas in nisi suscipit urna iaculis elementum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at lacus in lacus varius imperdiet in quis augue. Praesent non nunc ipsum. In eget odio arcu. Suspendisse maximus accumsan ex ac aliquam. Mauris consequat risus ut augue lacinia commodo. Donec egestas vitae diam faucibus viverra. Pellentesque gravida iaculis nulla et laoreet. Nulla lacinia erat ut velit gravida, condimentum facilisis massa pharetra.
