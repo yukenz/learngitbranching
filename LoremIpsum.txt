@@ -10,6 +10,10 @@ Ut ullamcorper ipsum nec urna rutrum tincidunt nec non augue. Aliquam erat volut
 #paragraf 3
 Donec tincidunt faucibus mollis. Sed ut interdum quam, id vehicula diam. Donec sed ullamcorper dolor. Praesent sed finibus ex. Integer egestas, ante nec imperdiet scelerisque, velit erat accumsan dui, ac pulvinar ligula felis non mauris. Vivamus ut velit mauris. Nulla facilisi. Nunc consectetur diam nibh, sit amet interdum lectus hendrerit vitae. Phasellus vel felis hendrerit, dictum augue id, ultricies felis. Praesent metus turpis, sagittis et leo sit amet, luctus efficitur quam.
 
+#paragraf4 branch commit
+#paragraf 4
+Pellentesque venenatis quam accumsan posuere dapibus. Cras eleifend malesuada diam et egestas. Duis ultrices elit sed mollis pharetra. Cras aliquet varius pharetra. Mauris lacus nulla, elementum non massa ac, elementum bibendum est. Aenean eget purus sed orci ornare dapibus. Suspendisse sit amet scelerisque quam, ac laoreet erat.
+
 #main branch commit
 #paragraf 5
 Curabitur nec mauris mollis, finibus odio sed, egestas enim. Vestibulum et nulla ultrices, ullamcorper sem ut, facilisis orci. Quisque eu turpis vitae mauris consequat condimentum eu non leo. Pellentesque ligula enim, viverra ut magna ullamcorper, congue dapibus est. Nunc commodo mi id odio fringilla tristique. Aliquam erat volutpat. Maecenas non malesuada ipsum. Etiam interdum lacus justo, a tempus nisi consectetur at. Nullam dui arcu, faucibus non vehicula eu, varius vel mauris. Fusce tristique dictum nisl et vehicula. Mauris lobortis pretium velit sit amet vehicula. Proin dignissim nunc at arcu semper pulvinar. Duis sit amet odio in libero tempus euismod id ut sapien.
